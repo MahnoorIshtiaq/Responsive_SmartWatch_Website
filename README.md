@@ -51,7 +51,7 @@ Make sure you have a code editor like VSCode and a web browser installed.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/smart-watch-collection.git
+   git clone https://github.com/MahnoorIshtiaq/Responsive_SmartWatch_Website.git
    ```
 2. Open the project in your code editor.
 3. Open `index.html` in your web browser to view the project.
